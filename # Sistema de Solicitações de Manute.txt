@@ -1,0 +1,33 @@
+# Sistema de Solicitações de Manutenção
+
+Projeto acadêmico desenvolvido para a avaliação do Módulo 3 – Banco de Dados e Controle de Versão.
+
+## Sobre o projeto
+
+O projeto propõe um sistema web para registrar e acompanhar solicitações de manutenção de máquinas e veículos da Secretaria Municipal de Obras e Infraestrutura de Bela Vista – MS.
+
+A proposta é organizar as informações das solicitações, permitindo registrar o equipamento relacionado, descrever o problema, informar a data de abertura e acompanhar o status.
+
+## Objetivo
+
+Desenvolver um banco de dados relacional para apoiar o registro e o acompanhamento das solicitações de manutenção, utilizando SQL para estruturar e manipular os dados e Git/GitHub para controlar as versões dos arquivos do projeto.
+
+## Escopo
+
+O projeto concentra-se no registro e acompanhamento das solicitações de manutenção. Não tem como objetivo substituir sistemas municipais existentes nem realizar a gestão completa da frota.
+
+## Tecnologias e ferramentas
+
+- Banco de dados relacional
+- SQL
+- Git
+- GitHub
+
+## Estrutura inicial
+
+- `docs/`: documentação e modelo preliminar do banco de dados.
+- `database/`: arquivos SQL relacionados à estrutura do banco.
+
+## Situação do projeto
+
+O projeto está em desenvolvimento. A estrutura apresentada é preliminar e será atualizada conforme a implementação avançar.
